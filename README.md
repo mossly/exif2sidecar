@@ -1,6 +1,6 @@
 # Image EXIF Data Extractor
 
-Extract EXIF data from images and output them into individual text files.
+Extract image EXIF metadata to txt sidecar files ready for Hydrus Network ingestion.
 
 ## Features
 
